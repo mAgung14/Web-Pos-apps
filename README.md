@@ -1,6 +1,6 @@
 ## Point of Sales Apps
 
-Author: Webhade Creative
+Author: Muhammad agung
 
 Last update: 21-08-2022
 
