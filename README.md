@@ -9,7 +9,7 @@ Develop by Siswa PKL SMK YPC Tasikmalaya
 ### Install
 
 ```
-$ git clone git@github.com:pkl-webhade/pos-apps.git
+$ git clone git@github.com:Web-pos-apps/pos-apps.git
 $ cd pos-apps
 $ composer install
 $ cp .env.example .env
